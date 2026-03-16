@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=MrSoma&fontSize=40&fontColor=ffffff"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+AysemDT;Full+Stack+Developer;Building+scalable+digital+solutions;Welcome+to+my+GitHub+profile&center=true&width=500&height=50">
+</p>
 # Hey, I'm MrSoma 👋
 
 Building scalable APIs, automation systems, and robust backend architectures.  
