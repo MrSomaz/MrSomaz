@@ -51,3 +51,7 @@ Passionate about clean code, performance optimization, and solving complex engin
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-MrSomaz-black?style=for-the-badge&logo=github)](https://github.com/MrSomaz)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake.svg" />
+</p>
