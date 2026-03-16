@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=MrSoma&fontSize=40&fontColor=ffffff"/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+AysemDT;Full+Stack+Developer;Building+scalable+digital+solutions;Welcome+to+my+GitHub+profile&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+MrSoma;Full+Stack+Developer;Building+scalable+APIs+and+automation+systems;Clean+code+%7C+Performance+%7C+Problem+Solving&center=true&width=600&height=50&color=00A8FF&size=22">
 </p>
 # Hey, I'm MrSoma 👋
 
